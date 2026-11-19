@@ -5,12 +5,21 @@ Je recherche une alternance (rythme 3 jours en entreprise / 2 jours à l'école)
 
 | Profil visé | CV (PDF) |
 |---|---|
-| Support informatique / Helpdesk | [CV Support IT](CV_ATS_Bakari_Gando_Support_IT.pdf) |
-| Systèmes et réseaux | [CV Systèmes et Réseaux](CV_ATS_Bakari_Gando_Systemes_Reseaux.pdf) |
-| Développement web | [CV Développement Web](CV_ATS_Bakari_Gando_Developpement_Web.pdf) |
+| Support informatique / Helpdesk | [CV Support IT](CV_Bakari_Gando_Support_IT.pdf) |
+| Systèmes et réseaux | [CV Systèmes et Réseaux](CV_Bakari_Gando_Systemes_Reseaux.pdf) |
+| Développement web | [CV Développement Web](CV_Bakari_Gando_Developpement_Web.pdf) |
 
 Pour télécharger un CV : ouvrez-le, puis cliquez sur l'icône de téléchargement en haut à droite.
 
-**Projets** : [NovaCorp Bank, infrastructure ITSM avec GLPI](https://github.com/lyli-netizen/novacorp-glpi)
+## Projets
+
+| Projet | Domaine |
+|---|---|
+| [NovaCorp Bank](https://github.com/lyli-netizen/novacorp-glpi) | Infrastructure ITSM avec GLPI (groupe) |
+| [Ka'sdale](https://github.com/lyli-netizen/kasdale-recettes) | Site de recettes en HTML/CSS (groupe) |
+| [Refonte du site d'un collège](https://github.com/lyli-netizen/refonte-site-college) | Refonte HTML/CSS (groupe) |
+| [Flight Me To](https://github.com/lyli-netizen/ihm-flight-me-to) | Maquette d'application mobile sur Figma (groupe) |
+| [Agenda étudiant](https://github.com/lyli-netizen/ihm-agenda-cc1) | Maquette mobile sur Figma, avant / après correction (individuel) |
+
 **Portfolio** : [canva.link/3bun7ph9voda7u2](https://canva.link/3bun7ph9voda7u2)
 **Contact** : [amoibakari06@gmail.com](mailto:amoibakari06@gmail.com)
